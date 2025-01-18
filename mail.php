@@ -1,7 +1,3 @@
-
-
-
-
 <?php
 // Import PHPMailer classes
 use PHPMailer\PHPMailer\PHPMailer;
